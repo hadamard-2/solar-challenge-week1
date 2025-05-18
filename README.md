@@ -1,5 +1,5 @@
 # Solar Data Discovery
-- a challenge is focused on understanding, exploring, and analyzing solar farm data found in Benin, Sierra Leone, and Togo
+a challenge focused on understanding, exploring, and analyzing solar farm data found in Benin, Sierra Leone, and Togo
 
 ## Setting Up
 
