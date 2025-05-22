@@ -4,5 +4,6 @@ __pychache__/
 data/
 
 *.csv
+*.pyc
 
 **/.ipynb_checkpoints/
